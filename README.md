@@ -10,3 +10,6 @@ to exist.
 Anyone who wishes to contribute will find the discussion on Wallbase forums until such a time the discussion will
 be relocated to a more suitable area.
 
+## IRC
+
+\#wallbasece at freenode
