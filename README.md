@@ -12,3 +12,8 @@ Anyone who wishes to contribute will find the discussion in the issues here at g
 ## IRC
 
 [#WallbaseCE](http://webchat.freenode.net/?channels=wallbasece) at freenode.
+
+
+## Getting started
+
+See contributing.md.
